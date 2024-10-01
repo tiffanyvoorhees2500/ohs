@@ -1,0 +1,19 @@
+{
+  "name": "cse341-week03-04-project",
+  "version": "1.0.0",
+  "description": "Optimal Health Systems With the Rowley Family",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiffanyvoorhees2500/ohs.git"
+  },
+  "author": "Tiffany Voorhees",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiffanyvoorhees2500/ohs/issues"
+  },
+  "homepage": "https://github.com/tiffanyvoorhees2500/ohs#readme"
+}
